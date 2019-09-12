@@ -1,0 +1,50 @@
+.cbox {
+    border:5px solid;
+   
+}
+.arow {
+    border:10px solid yellow;
+
+}
+.adiv{
+    height: 60px;
+    background-color: red;
+}
+.bdiv{
+    height: 60px;
+    background-color: indigo;
+}
+
+.cdiv{
+    height: 60px;
+    background-color: goldenrod;
+}
+.ddiv{
+    height: 60px;
+    background-color: khaki;
+}
+
+.cdiv{
+    height: 60px;
+    background-color: lightcoral;
+}
+.ddiv{
+    height: 60px;
+    background-color: greenyellow;
+}
+
+.ediv{
+    height: 60px;
+    background-color: limegreen;
+}
+.fdiv{
+    height: 60px;
+    background-color: lightblue;
+}
+
+
+
+
+
+
+
